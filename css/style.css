@@ -1,0 +1,17 @@
+body{
+    padding-top:150px ;
+    background-color: rgba(233, 191, 253, 0.411);
+}
+.button_group p{
+    font-size: 40px;
+    font-style: initial;
+}
+
+
+.btn{
+    font-size: 25px;
+    padding: 10px 30px;
+}
+.toolbar{
+    margin-left:640px;
+}
